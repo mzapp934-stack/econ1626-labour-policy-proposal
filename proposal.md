@@ -66,4 +66,4 @@ Department of Industry, Science and Resources (DISR) (2025b) ‘Spread the benef
 
 Jobs and Skills Australia (JSA) (2025) *Our Gen AI transition: implications for work and skills*, Australian Government, accessed 27 September 2026. <https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report>
 
-Productivity Commission (2024) *Making the most of the AI opportunity: AI uptake, productivity, and the role of government*, Research paper 1, Australian Government, accessed 27 September 2026. <https://www.pc.gov.au/research/completed/ai-opportunity/ai-paper1-productivity.pdf>
+Productivity Commission (2024) *Making the most of the AI opportunity: AI uptake, productivity, and the role of government*, Research paper 1, Australian Government, accessed 27 September 2026. <https://www.pc.gov.au/inquiries-and-research/making-the-most-of-the-ai-opportunity/>
