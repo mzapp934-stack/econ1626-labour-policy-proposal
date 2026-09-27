@@ -22,7 +22,7 @@ Start with `proposal.md`. The proposal includes its policy-client statement, exe
 - [x] Separate AI-use reflection
 - [x] More than five meaningful commits
 - [x] Markdown headings, tables and links checked
-- [x] Proposal kept within the 1,200-word limit plus 10% allowance (references excluded)
+- [x] Proposal replaced with Michael's final written draft
 - [x] Reflection kept close to 200 words
 - [ ] Push this local repository to GitHub
 - [ ] Add the final GitHub repository URL to Canvas
